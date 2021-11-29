@@ -22,3 +22,4 @@ func loopTest() {
 	}
 	fmt.Println("Loop finished.")
 }
+
